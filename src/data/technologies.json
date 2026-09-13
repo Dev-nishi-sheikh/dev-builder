@@ -6,7 +6,7 @@
     "description": "A component-based JavaScript library for building fast and interactive user interfaces.",
     "icon": "https://icon.icepanel.io/Technology/svg/React.svg",
     "rating": 4.9,
-    "difficulty": "Beginner-Friendly",
+    "difficulty": "For Beginner",
     "badge": "Popular"
   },
   {
@@ -26,7 +26,7 @@
     "description": "The standard markup language used to structure content on modern websites and web applications.",
     "icon": "https://icon.icepanel.io/Technology/svg/HTML5.svg",
     "rating": 4.8,
-    "difficulty": "Beginner-Friendly",
+    "difficulty": "For Beginner",
     "badge": "Essential"
   },
   {
@@ -36,7 +36,7 @@
     "description": "A stylesheet language used to design responsive, attractive, and visually engaging web pages.",
     "icon": "https://icon.icepanel.io/Technology/svg/CSS3.svg",
     "rating": 4.8,
-    "difficulty": "Beginner-Friendly",
+    "difficulty": "For Beginner",
     "badge": "Essential"
   },
   {
