@@ -4,8 +4,8 @@ function Footer() {
   return (
     <footer className=" mt-16">
       <div className="max-w-7xl mx-auto px-6">
-        <div className="grid  md:grid-cols-4 gap-10">
-          <div>
+        <div className="grid grid-cols-3 md:grid-cols-4 gap-10">
+          <div className="col-span-3 md:col-span-1">
             <img src={logo} alt="Dev Stack" className="w-32" />
 
             <p className=" text-sm  ">Build your own developer stack with modern

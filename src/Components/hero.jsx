@@ -19,13 +19,13 @@ function Hero() {
             powerful technology stack for your next project.
           </p>
 
-          <div className="mt-4 flex flex-col sm:flex-row items-start sm:items-center gap-4">
+          <div className="mt-4 flex flex-row items-start sm:items-center gap-4">
 
-            <button className="bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 text-white px-6 py-3 rounded-lg font-medium">
+            <button className="bg-gradient-to-r from-orange-500 via-pink-500 to-purple-600 text-white px-6 py-3 rounded-lg font-medium text-sm md:text-base">
               Explore Technologies
             </button>
 
-            <button className="border text-gray-700 px-6 py-3 rounded-lg font-medium">
+            <button className="border text-gray-700 px-6 py-3 rounded-lg font-medium text-sm md:text-base">
               Learn More
             </button>
 
